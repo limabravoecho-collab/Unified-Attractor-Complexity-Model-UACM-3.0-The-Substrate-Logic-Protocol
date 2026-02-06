@@ -6,7 +6,7 @@ Three-Tier Consciousness Architecture
 =============================================================
 ```
 Definitions:
-PCAE: Processing Cost Allocated Energy, which determines how "expensive" an object is to render by the universe. 
+Processing Cost Allocated Energy (PCAE), which determines how "expensive" an object is to render by the universe. 
 ---
 
 ## **Architecture**
