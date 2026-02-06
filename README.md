@@ -5,7 +5,8 @@ The Substrate Logic Protocol
 Three-Tier Consciousness Architecture
 =============================================================
 ```
-
+Definitions:
+PCAE: Processing Cost Allocation Energy, which determines how "expensive" an object is to render by the universe. 
 ---
 
 ## **Architecture**
